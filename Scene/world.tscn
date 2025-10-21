@@ -3,9 +3,9 @@
 [ext_resource type="Script" path="res://Script/world.gd" id="1_ap0h3"]
 [ext_resource type="PackedScene" uid="uid://d07fi45sjymvd" path="res://Scene/cam.tscn" id="1_gj8tx"]
 [ext_resource type="Script" path="res://Script/CanvasLayer.gd" id="2_rjtkb"]
-[ext_resource type="AudioStream" path="res://coins-sound-effect-1-241818.mp3" id="4_n0qjc"]
-[ext_resource type="AudioStream" path="res://shuffle-cards-46455.mp3" id="5_2e853"]
-[ext_resource type="AudioStream" path="res://game-bonus-144751.mp3" id="6_ramfe"]
+[ext_resource type="AudioStream" uid="uid://dlqj0eclev23g" path="res://coins-sound-effect-1-241818.mp3" id="4_n0qjc"]
+[ext_resource type="AudioStream" uid="uid://clvy5tyxdir0" path="res://shuffle-cards-46455.mp3" id="5_2e853"]
+[ext_resource type="AudioStream" uid="uid://b85a1u4y7sdw3" path="res://game-bonus-144751.mp3" id="6_ramfe"]
 
 [sub_resource type="Shader" id="Shader_atgpo"]
 code = "

@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://d07fi45sjymvd"]
 
 [ext_resource type="Script" path="res://Cam.gd" id="1_2txrn"]
-[ext_resource type="FontFile" path="res://Mitr-Regular.ttf" id="2_e2cok"]
+[ext_resource type="FontFile" uid="uid://chui8tq7t1l1g" path="res://Mitr-Regular.ttf" id="2_e2cok"]
 
 [node name="Cam" type="Node3D"]
 script = ExtResource("1_2txrn")
