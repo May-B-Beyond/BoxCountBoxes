@@ -1,7 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://cy2mhvjmfeg1t"]
-
-[ext_resource type="PackedScene" uid="uid://sc6dtave043n" path="res://floating_cube.glb" id="1_fwk4x"]
-
-[node name="Box" type="Node3D"]
-
-[node name="floating_cube" parent="." instance=ExtResource("1_fwk4x")]
